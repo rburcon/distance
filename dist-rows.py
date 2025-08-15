@@ -70,7 +70,7 @@ st.title("Calculadora de Distância entre Fileiras de Painéis Solares")
 
 st.markdown("""
 Esta ferramenta calcula a distância mínima necessária entre fileiras de painéis solares para evitar sombreamento 
-entre 9:30 e 14:00 (horário solar local), considerando o pior caso (solstício de inverno).
+entre 9:30 e 14:30 (horário solar local), considerando o pior caso (solstício de inverno).
 """)
 
 # Função para cálculo da distância entre fileiras
